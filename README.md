@@ -107,17 +107,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhaviHanchate&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhaviHanchate&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
-</div>
-
----
-
-
 
 ## 📊 Activity Graph
 
